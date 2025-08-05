@@ -1,0 +1,7 @@
+{
+    "rerites":[
+        {
+            "source": "/", "destination":"/Calculator.html"
+        }
+    ]
+}
